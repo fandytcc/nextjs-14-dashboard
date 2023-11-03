@@ -3,7 +3,7 @@ import AcmeLogo from '@/app/ui/acme-logo';
 
 import Link from 'next/link';
 import Image from 'next/image';
-import { lusitana } from '@/app/ui/font';
+import { lusitana } from './ui/font';
 
 export default function Page() {
   return (
